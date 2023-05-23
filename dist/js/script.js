@@ -1,0 +1,1 @@
+console.log("hello gulp"),alert("hola");
